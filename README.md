@@ -74,6 +74,7 @@ Objective: Visual representation of interactions between users and the system.
     - Provide a clear visual representation of system functionalities.
     - Help in identifying and organizing system requirements.
     - Facilitate communication among stakeholders and development team.
+      
   ![Image](https://github.com/user-attachments/assets/67e6c26a-82da-4d41-98ba-4d29bff3f4b9)
 
 ## Acceptance Criteria ✅
